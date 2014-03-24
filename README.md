@@ -31,20 +31,20 @@ PACKAGE	 INSTALLATION
 ------------------------
 1. Update the ubuntu package >> sudo apt-get update
 
-2. Get the IDE for development >> Latest Eclipse IDE like Kepler with JDK 1.7. J2EE is preferred instead of JDK >> 
-   download the kepler from eclipse website and run the .sh file for setup.
+2. Get the IDE for development >> Latest Eclipse IDE like Kepler. 
+   >>download the kepler from eclipse website and run the .sh file for setup.
 
-3. Install JDK or J2EE. Set the path variable of JDK after installation >> Path is where the JAVAC resides in the   
-   machine. 
+3. Install JDK or J2EE. Set the path variable of JDK after installation 
+   >> Path is where the JAVAC resides in the machine. 
 
    Put export JAVA_HOME = /yourJava/Installation/Directory/ in your bash file in ubuntu for setting path variable.   
    Google it if you are in confusion.
 	 
-   JDK installation check >> java -version
+   >>JDK installation check >> java -version
 
-4. Install the Maven intergration for eclipse from the marketplace. >> Also install the MAVEEN in local system >> sudo 
-   apt-get install maven
-	 Maven install check >> mvn -version
+4. Install the Maven intergration for eclipse from the marketplace. >> Also install the MAVEEN in local system 
+   >> sudo apt-get install maven
+   >>Maven install check >> mvn -version
 
   What is Maven ? 
   >> For now its good to understand that all the jars and packages available in the www is tracked by Maven. So 
@@ -77,5 +77,6 @@ HELLO WORLD !!
     >> They are bare bones for your project. Has some simple and also sophisticated skeletel projects for good starting     point.
 
 
-11. Wait !! I have just started to do this project. Give me some Time guys.. I will also try to share some information about Designing and JavaScript aspect. Mostprobally CSS3 , HTML5 and AngularJS
+11. Wait !! I have just started to do this project. Give me some Time guys.. I will also try to share some information 
+    on Designing and JavaScript aspect. Most probably CSS3 , HTML5 and AngularJS
   
